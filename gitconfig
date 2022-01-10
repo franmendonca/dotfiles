@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = franciscomendonca8@gmail.com
+	name = Francisco Mendonca
